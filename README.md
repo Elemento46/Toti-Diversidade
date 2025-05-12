@@ -1,7 +1,7 @@
 
 # 🌍 Toti Diversidade — Reestruturação do Site Oficial
 ![Badge Status](https://img.shields.io/badge/status-Em%20desenvolvimento-yellow)
-![GitHub Repo stars](https://img.shields.io/github/stars/usuário/repositorio?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Elemento46/Toti-Diversidade?style=social)
 
 Este projeto é o Trabalho de Conclusão de Curso (TCC) desenvolvido no Instituto da Oportunidade Social (IOS), com o objetivo de reestruturar o site oficial da [Toti Diversidade](https://totidiversidade.com.br/), uma organização que promove a inclusão de migrantes e refugiados no mercado de tecnologia por meio de capacitação gratuita e programas de empregabilidade.
 
